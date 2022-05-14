@@ -8,7 +8,7 @@ import (
 type Principal struct {
 	PrincipalName string
 	FinalList     []string
-	StudentList   map[string]string //name
+	StudentList   map[string]string
 }
 
 func (p *Principal) AdmitStudent(jambite Applicants.Applicants, cutOffMark float64, specialCutOffMark float64) {

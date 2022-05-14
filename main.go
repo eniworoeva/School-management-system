@@ -10,6 +10,7 @@ import (
 )
 
 func main() {
+
 	c := Course.Course{CourseName: "Geophysics", CourseCreditLoad: 30, CourseList: []string{"Physics", "Chemistry", "Math"}}
 	fmt.Println(c.PrintCourseList())
 
