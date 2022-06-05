@@ -1,6 +1,6 @@
 # School-management-system
 It Contains few methods for school management system.
-*It is a **simple system*for managing school activities
+*It is a **simple system* for managing school activities
 
 The Methods used are:
 
